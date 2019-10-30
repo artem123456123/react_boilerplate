@@ -1,0 +1,1 @@
+export const SET_MONTH_TEXT = 'SET_MONTH_TEXT';
